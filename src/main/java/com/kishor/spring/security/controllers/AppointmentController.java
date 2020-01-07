@@ -26,7 +26,7 @@ public class AppointmentController {
 	
 	@ModelAttribute
 	public Appointment getAppointment(){
-		//Adding comment
+		//Updated comment
 		return new Appointment();
 	}
 
